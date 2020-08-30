@@ -11,6 +11,7 @@ export default class App extends React.Component {
     <View style={styles.container}>
       <View style={styles.redView}/>
       <View style={styles.yellowView}/>
+      
     </View>
     );
   }
